@@ -4,7 +4,8 @@
 #include <string>
 using std::string
 
-class card
+
+class Card
 {
 private:
     int _value;
