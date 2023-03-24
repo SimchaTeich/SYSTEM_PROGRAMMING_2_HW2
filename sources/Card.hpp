@@ -14,10 +14,10 @@ private:
     string _specialName;
 
 public:
-    Card(int value, string color);
+    Card(int value, const string& color);
 
-    int getValue();
-    void printCard();
+    int getValue() const;
+    void printCard() const;
 };
 
 
