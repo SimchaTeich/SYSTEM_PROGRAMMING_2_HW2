@@ -28,7 +28,7 @@ namespace ariel
     //    void writeTurnLog(const Card& c1, const Card& c2);
 
     public:
-        Game(Player& p1, Player& p2);
+        Game(Player& player1, Player& player2);
     //    ~Game();
 
         void playTurn();

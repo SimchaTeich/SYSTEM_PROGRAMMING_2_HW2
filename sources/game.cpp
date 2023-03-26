@@ -4,7 +4,7 @@
 
 namespace ariel
 {
-    Game::Game(Player& p1, Player& p2){};
+    Game::Game(Player& player1, Player& player2){};
     //Game::~Game(){};
     void Game::playTurn(){};
     void Game::playAll(){};
