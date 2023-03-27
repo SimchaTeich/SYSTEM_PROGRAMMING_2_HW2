@@ -15,3 +15,5 @@ Source: https://github.com/cpp-exercises/CardWar_a
                                     
 Credit for ascii art:
 https://www.asciiart.eu/miscellaneous/playing-cards
+
+Note: if bash grade does't work, try the dos2unix tool :)
